@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PerfScheduler>
+
+    <String name="Cpu Architecture">false</String>
+
+    <BoostScenario>
+        <Scenario name="AppStart" >
+            <priority>0</priority>
+            <timeout>1000</timeout>
+            <big_cpu_freq>2100000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>0</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="LuckyMoney" >
+            <priority>0</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>2100000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>0</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="AppInstall" >
+            <priority>20</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1500000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>1264000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="AppUninstall" >
+            <priority>20</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1500000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>1264000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="WindowAnimation" >
+            <priority>10</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1704000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>420</gpu_freq>
+            <mif_freq>1456000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>3</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="ViewAnimation" >
+            <priority>10</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1704000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>544</gpu_freq>
+            <mif_freq>1456000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>4</little_cpu_num>
+            <big_cpu_num>4</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="ListViewScrolls" >
+            <priority>30</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1500000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>544</gpu_freq>
+            <mif_freq>1264000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>3</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="KeyBoost" >
+            <priority>50</priority>
+            <timeout>1000</timeout>
+            <big_cpu_freq>0</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>0</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>0</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="TouchBoost" >
+            <priority>55</priority>
+            <timeout>1000</timeout>
+            <big_cpu_freq>0</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>350</gpu_freq>
+            <mif_freq>0</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>0</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="RenderThread" >
+            <priority>40</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>1500000</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>544</gpu_freq>
+            <mif_freq>1264000</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>3</little_cpu_num>
+            <big_cpu_num>3</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="FingerFunction" >
+            <priority>50</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>0</big_cpu_freq>
+            <little_cpu_freq>1500000</little_cpu_freq>
+            <gpu_freq>0</gpu_freq>
+            <mif_freq>1552000</mif_freq>
+            <int_freq>560000</int_freq>
+            <little_cpu_num>0</little_cpu_num>
+            <big_cpu_num>0</big_cpu_num>
+        </Scenario>
+
+        <Scenario name="BrightnessAnimation" >
+            <priority>60</priority>
+            <timeout>2000</timeout>
+            <big_cpu_freq>0</big_cpu_freq>
+            <little_cpu_freq>0</little_cpu_freq>
+            <gpu_freq>0</gpu_freq>
+            <mif_freq>0</mif_freq>
+            <int_freq>200000</int_freq>
+            <little_cpu_num>2</little_cpu_num>
+            <big_cpu_num>0</big_cpu_num>
+        </Scenario>
+    </BoostScenario>
+
+    <PowerMode>
+        <Saving name="Saving" >
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/target_loads" value="85 1100000:95" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq" value="800000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/go_hispeed_load" value="90" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/above_hispeed_delay" value="19000 1000000:39000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/boostpulse_duration" value="40000" />
+
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads" value="81 1400000:87 1700000:95" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq" value="1000000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load" value="88" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay" value="59000 1200000:119000 1700000:139000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration" value="40000" />
+        </Saving>
+        <Balance name="Balance" >
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/target_loads" value="75" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq" value="900000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/go_hispeed_load" value="85" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/above_hispeed_delay" value="19000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/boostpulse_duration" value="40000" />
+
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads" value="80 1000000:81 1400000:87 1700000:90" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq" value="1000000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load" value="89" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay" value="59000 1200000:119000 1700000:19000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration" value="40000" />
+        </Balance>
+        <Performance name="Performance" >
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/target_loads" value="65" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq" value="1200000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/go_hispeed_load" value="85" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/above_hispeed_delay" value="19000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu0/cpufreq/interactive/boostpulse_duration" value="40000" />
+
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads" value="75" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time" value="40000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq" value="1500000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load" value="89" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay" value="19000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack" value="20000" />
+            <String filePath="/sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration" value="40000" />
+        </Performance>
+    </PowerMode>
+</PerfScheduler>
