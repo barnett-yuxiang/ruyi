@@ -1,96 +1,175 @@
-08-08 15:00:26.461  2240  2240 I @PAEX   : MsgID=131,Target=android.app.ActivityThread$H,Callback=,ConsumeRealTime=6,ConsumeCPUTime=0
-08-08 15:00:26.463  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@4881ca9: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:26.463  2240  2240 I @PAEX   : MsgID=2,Target=com.uc.framework.core.NotificationCenter,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:26.604  2240  2240 I @PAEX   : MsgID=31,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=140,ConsumeCPUTime=128
-08-08 15:00:26.607  2240  2240 I @PAEX   : MsgID=62,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:26.629  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@90f2142: 0,ConsumeRealTime=22,ConsumeCPUTime=14
-08-08 15:00:26.631  2240  2240 I @PAEX   : MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.ViewRootImpl$4@5469f: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:26.670  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=38,ConsumeCPUTime=16
-08-08 15:00:26.765  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@fe4d631: 0,ConsumeRealTime=94,ConsumeCPUTime=72
-08-08 15:00:26.768  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@77f1a69: 0,ConsumeRealTime=3,ConsumeCPUTime=1
-08-08 15:00:26.774  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@56a69fa: 0,ConsumeRealTime=5,ConsumeCPUTime=5
-08-08 15:00:26.778  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@4f83e52: 0,ConsumeRealTime=4,ConsumeCPUTime=4
-08-08 15:00:26.785  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@b53095: 0,ConsumeRealTime=6,ConsumeCPUTime=5
-08-08 15:00:26.795  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@6d0a4e4: 0,ConsumeRealTime=10,ConsumeCPUTime=6
-08-08 15:00:26.797  2240  2240 I @PAEX   : MsgID=49,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:26.799  2240  2240 I @PAEX   : MsgID=6,Target=android.view.ViewRootImpl$ViewRootHandler,Callback=,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:26.896  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=97,ConsumeCPUTime=10
-08-08 15:00:26.908  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@90a9d75: 0,ConsumeRealTime=11,ConsumeCPUTime=10
-08-08 15:00:26.911  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@9f90d7b: 0,ConsumeRealTime=3,ConsumeCPUTime=3
-08-08 15:00:26.912  2240  2240 I @PAEX   : MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.app.ActivityThread$1@f1003d6: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:26.915  2240  2240 I @PAEX   : MsgID=54,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=3,ConsumeCPUTime=3
-08-08 15:00:26.922  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.ucweb.union.ads.apktracker.c.b@fa6062d: 0,ConsumeRealTime=6,ConsumeCPUTime=1
-08-08 15:00:27.074  2240  2240 I @PAEX   : MsgID=54,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=151,ConsumeCPUTime=141
-08-08 15:00:27.201  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@7d4443f: 0,ConsumeRealTime=53,ConsumeCPUTime=41
-08-08 15:00:27.230  2240  2240 I @PAEX   : MsgID=3,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=29,ConsumeCPUTime=19
-08-08 15:00:27.235  2240  2240 I @PAEX   : MsgID=3,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=4,ConsumeCPUTime=2
-08-08 15:00:27.236  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@953db4b: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:27.329  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.application.infoflow.search.SearchManager$2@9a9e57d: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:27.533  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@eb43540: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:27.697  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@3c8ce1f: 0,ConsumeRealTime=5,ConsumeCPUTime=4
-08-08 15:00:27.770  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.iflow.splashscreen.CountDownTimer$1@bb62d3b: 0,ConsumeRealTime=7,ConsumeCPUTime=5
-08-08 15:00:27.801  2240  2240 I @PAEX   : MsgID=33,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=30,ConsumeCPUTime=30
-08-08 15:00:27.813  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=11,ConsumeCPUTime=4
-08-08 15:00:27.813  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@fe6f604: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:27.815  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@4df6e70: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:27.818  2240  2240 I @PAEX   : MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@16855e9: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.035  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=217,ConsumeCPUTime=196
-08-08 15:00:28.096  2240  2240 I @PAEX   : MsgID=0,Target=InfoFlowChannelWindow,Callback= com.uc.application.infoflow.uiwidget.channelmainwin.window.InfoFlowChannelWindow$8@afa09ad: 0,ConsumeRealTime=62,ConsumeCPUTime=33
-08-08 15:00:28.097  2240  2240 I @PAEX   : MsgID=130,Target=com.uc.base.net.adaptor.EventHandler$InnerHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.100  2240  2240 I @PAEX   : MsgID=110,Target=com.uc.base.net.adaptor.EventHandler$InnerHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.110  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=9,ConsumeCPUTime=9
-08-08 15:00:28.110  2240  2240 I @PAEX   : MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= com.uc.application.infoflow.uiwidget.channelmainwin.channeltabbar.InfoFlowScrollableTabBar$1@f22b3b7: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.111  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@b127724: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.118  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@724d453: 0,ConsumeRealTime=5,ConsumeCPUTime=3
-08-08 15:00:28.121  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@c371a89: 0,ConsumeRealTime=2,ConsumeCPUTime=3
-08-08 15:00:28.125  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@c823a8e: 0,ConsumeRealTime=3,ConsumeCPUTime=2
-08-08 15:00:28.125  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@91e62af: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.127  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@96dd645: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.128  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@6787acb: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.130  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@ab852a8: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.132  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@97f0d66: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.134  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@d93f154: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.138  2240  2240 I @PAEX   : MsgID=1,Target=cn.help.acs.a,Callback=,ConsumeRealTime=3,ConsumeCPUTime=1
-08-08 15:00:28.150  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=11,ConsumeCPUTime=6
-08-08 15:00:28.156  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=7,ConsumeCPUTime=2
-08-08 15:00:28.167  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.184  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.202  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.217  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=2,ConsumeCPUTime=0
-08-08 15:00:28.234  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:28.251  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.269  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.285  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.302  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.318  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.337  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.353  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=2,ConsumeCPUTime=1
-08-08 15:00:28.492  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@1a09169: 0,ConsumeRealTime=3,ConsumeCPUTime=2
-08-08 15:00:28.492  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@a7db25: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.494  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@fdbc4fa: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:28.704  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@77add76: 0,ConsumeRealTime=1,ConsumeCPUTime=0
-08-08 15:00:29.101  2240  2240 I @PAEX   : MsgID=4,Target=com.uc.framework.core.NotificationCenter,Callback=,ConsumeRealTime=7,ConsumeCPUTime=7
-08-08 15:00:29.108  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:29.109  2240  2240 I @PAEX   : MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@4986781: 0,ConsumeRealTime=1,ConsumeCPUTime=1
-08-08 15:00:29.118  2240  2240 I @PAEX   : MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.system.net.NetworkStateChangeReceiver$2@6442467: 0,ConsumeRealTime=3,ConsumeCPUTime=2
-08-08 15:00:29.160  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=36,ConsumeCPUTime=30
-08-08 15:00:29.177  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=16,ConsumeCPUTime=1
-08-08 15:00:29.334  2240  2240 I @PAEX   : MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$ScrollabilityCache@e88f557: 0,ConsumeRealTime=2,ConsumeCPUTime=2
-08-08 15:00:30.328  2240  2240 I @PAEX   : MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$ScrollabilityCache@35b2844: 0,ConsumeRealTime=2,ConsumeCPUTime=2
-08-08 15:00:30.355  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=7,ConsumeCPUTime=5
-08-08 15:00:30.380  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=10,ConsumeCPUTime=5
-08-08 15:00:30.391  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=9,ConsumeCPUTime=4
-08-08 15:00:30.408  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=4,ConsumeCPUTime=2
-08-08 15:00:30.425  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=5,ConsumeCPUTime=3
-08-08 15:00:30.443  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=3,ConsumeCPUTime=2
-08-08 15:00:30.458  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=5,ConsumeCPUTime=3
-08-08 15:00:30.475  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=4,ConsumeCPUTime=3
-08-08 15:00:30.494  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=5,ConsumeCPUTime=3
-08-08 15:00:30.511  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=6,ConsumeCPUTime=4
-08-08 15:00:30.528  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=6,ConsumeCPUTime=3
-08-08 15:00:30.545  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=6,ConsumeCPUTime=4
-08-08 15:00:30.563  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=4,ConsumeCPUTime=3
-08-08 15:00:30.578  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=7,ConsumeCPUTime=4
-08-08 15:00:30.594  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=6,ConsumeCPUTime=3
-08-08 15:00:30.609  2240  2240 I @PAEX   : MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@63eda4a: 0,ConsumeRealTime=4,ConsumeCPUTime=2
-08-08 15:00:30.664  2240  2240 I @PAEX   : MsgID=132,Target=android.app.ActivityThread$H,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:54.882 I/@PAEX   ( 8794): MsgID=31,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=440,ConsumeCPUTime=426
+08-08 15:10:54.882 I/@PAEX   ( 8794): MsgID=62,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=3,ConsumeCPUTime=3
+08-08 15:10:54.942 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41debc30: 0,ConsumeRealTime=53,ConsumeCPUTime=32
+08-08 15:10:55.122 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41e009a0: 0,ConsumeRealTime=179,ConsumeCPUTime=121
+08-08 15:10:55.122 I/@PAEX   ( 8794): MsgID=2,Target=cn.help.acs.a,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.192 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=67,ConsumeCPUTime=33
+08-08 15:10:55.192 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41ffed90: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:10:55.202 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@42027938: 0,ConsumeRealTime=14,ConsumeCPUTime=9
+08-08 15:10:55.212 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@4202d6d8: 0,ConsumeRealTime=9,ConsumeCPUTime=8
+08-08 15:10:55.222 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@420331f8: 0,ConsumeRealTime=7,ConsumeCPUTime=7
+08-08 15:10:55.232 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@4204f668: 0,ConsumeRealTime=12,ConsumeCPUTime=7
+08-08 15:10:55.232 I/@PAEX   ( 8794): MsgID=49,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.232 I/@PAEX   ( 8794): MsgID=6,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.242 I/@PAEX   ( 8794): MsgID=5,Target=android.view.ViewRootImpl$ViewRootHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.252 I/@PAEX   ( 8794): MsgID=6,Target=android.view.ViewRootImpl$ViewRootHandler,Callback=,ConsumeRealTime=11,ConsumeCPUTime=2
+08-08 15:10:55.312 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=58,ConsumeCPUTime=42
+08-08 15:10:55.312 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41e1d848: 0,ConsumeRealTime=4,ConsumeCPUTime=1
+08-08 15:10:55.312 I/@PAEX   ( 8794): MsgID=2,Target=com.uc.framework.core.NotificationCenter,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.312 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f1d510: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.372 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fdd000: 0,ConsumeRealTime=11,ConsumeCPUTime=1
+08-08 15:10:55.372 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@4202acc8: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.372 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41dde2e8: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.372 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f27668: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.372 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f27d98: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.382 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f28830: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.382 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f33e58: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.382 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f76e00: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.382 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fdab88: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.382 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fdbf50: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.392 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@42022068: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.392 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@4202a560: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.392 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@42030080: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.392 I/@PAEX   ( 8794): MsgID=6,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.482 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41bbedc0: 0,ConsumeRealTime=83,ConsumeCPUTime=24
+08-08 15:10:55.492 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41bbee38: 0,ConsumeRealTime=15,ConsumeCPUTime=11
+08-08 15:10:55.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.ViewRootImpl$SendWindowContentChangedAccessibilityEvent@41c25c28: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41d3fe88: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:55.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41b90ab0: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:55.512 I/@PAEX   ( 8794): MsgID=54,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=7,ConsumeCPUTime=3
+08-08 15:10:56.102 I/@PAEX   ( 8794): MsgID=54,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=590,ConsumeCPUTime=475
+08-08 15:10:56.112 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.ucweb.union.ads.apktracker.c.b@42090328: 0,ConsumeRealTime=9,ConsumeCPUTime=4
+08-08 15:10:56.112 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ServiceDispatcher$RunConnection@41c4be68: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.192 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41bf5ce8: 0,ConsumeRealTime=86,ConsumeCPUTime=74
+08-08 15:10:56.202 I/@PAEX   ( 8794): MsgID=22,Target=android.view.ViewRootImpl$ViewRootHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.202 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41e57598: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.242 I/@PAEX   ( 8794): MsgID=3,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=46,ConsumeCPUTime=43
+08-08 15:10:56.252 I/@PAEX   ( 8794): MsgID=3,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=5,ConsumeCPUTime=4
+08-08 15:10:56.252 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41d26718: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.252 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41b80980: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.252 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.application.infoflow.search.SearchManager$2@420be090: 0,ConsumeRealTime=2,ConsumeCPUTime=2
+08-08 15:10:56.522 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41c47108: 0,ConsumeRealTime=4,ConsumeCPUTime=5
+08-08 15:10:56.632 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= com.uc.framework.DeviceManager$1@41c776d8: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.662 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=6,ConsumeCPUTime=3
+08-08 15:10:56.662 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= com.uc.application.infoflow.base.ui.pulltorefresh.AbstractPull2RefreshViewWrapper$SmoothScrollRunnable@42317c10: 0,ConsumeRealTime=4,ConsumeCPUTime=1
+08-08 15:10:56.802 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b53b40: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.802 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@42086de8: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.802 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41baff50: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b809d0: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b094b0: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@42016820: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41a92888: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@422f4380: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.822 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@4211b038: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.822 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b6b048: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.822 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41db2d38: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.822 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41e1b630: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.822 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41ff5e70: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41c31e48: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f2b578: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41dbcaf0: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@4209c600: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@422e99a0: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fe5e40: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:56.842 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fde150: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.842 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b7d9c0: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:56.842 I/@PAEX   ( 8794): MsgID=110,Target=com.uc.base.net.adaptor.EventHandler$InnerHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=2
+08-08 15:10:58.242 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.iflow.splashscreen.CountDownTimer$1@42304890: 0,ConsumeRealTime=39,ConsumeCPUTime=11
+08-08 15:10:58.352 I/@PAEX   ( 8794): MsgID=33,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=108,ConsumeCPUTime=77
+08-08 15:10:58.422 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=74,ConsumeCPUTime=23
+08-08 15:10:58.432 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.application.infoflow.widget.tabhost.common.AnimTabItemViewHolder$1@41b93670: 0,ConsumeRealTime=4,ConsumeCPUTime=2
+08-08 15:10:58.442 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= com.uc.application.infoflow.base.ui.pulltorefresh.AbstractPull2RefreshViewWrapper$SmoothScrollRunnable@42317c10: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.172 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=733,ConsumeCPUTime=419
+08-08 15:10:59.422 I/@PAEX   ( 8794): MsgID=0,Target=InfoFlowChannelWindow,Callback= com.uc.application.infoflow.uiwidget.channelmainwin.window.InfoFlowChannelWindow$8@41bf5cf8: 0,ConsumeRealTime=242,ConsumeCPUTime=125
+08-08 15:10:59.432 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@420237c0: 0,ConsumeRealTime=5,ConsumeCPUTime=1
+08-08 15:10:59.442 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41f1dd80: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:10:59.442 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.ViewRootImpl$SendWindowContentChangedAccessibilityEvent@41c25c28: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:10:59.452 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= com.uc.application.infoflow.uiwidget.channelmainwin.window.InfoFlowChannelWindow$2@42068a70: 0,ConsumeRealTime=5,ConsumeCPUTime=5
+08-08 15:10:59.452 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@4206af40: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.462 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41e163e8: 0,ConsumeRealTime=5,ConsumeCPUTime=1
+08-08 15:10:59.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=47,ConsumeCPUTime=21
+08-08 15:10:59.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41e67a80: 0,ConsumeRealTime=2,ConsumeCPUTime=0
+08-08 15:10:59.512 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41da8700: 0,ConsumeRealTime=7,ConsumeCPUTime=1
+08-08 15:10:59.512 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41b85638: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:59.512 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41d3fe88: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.522 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@420c9270: 0,ConsumeRealTime=3,ConsumeCPUTime=0
+08-08 15:10:59.522 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41d2e848: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.532 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@41ca84e0: 0,ConsumeRealTime=3,ConsumeCPUTime=1
+08-08 15:10:59.532 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@42005510: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:59.572 I/@PAEX   ( 8794): MsgID=1,Target=cn.help.acs.a,Callback=,ConsumeRealTime=41,ConsumeCPUTime=15
+08-08 15:10:59.582 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@42304be0: 0,ConsumeRealTime=2,ConsumeCPUTime=2
+08-08 15:10:59.592 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41c471d8: 0,ConsumeRealTime=14,ConsumeCPUTime=5
+08-08 15:10:59.652 I/@PAEX   ( 8794): MsgID=42,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=59,ConsumeCPUTime=0
+08-08 15:10:59.662 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@4230a520: 0,ConsumeRealTime=10,ConsumeCPUTime=3
+08-08 15:10:59.662 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@422e17e0: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.672 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fd4900: 0,ConsumeRealTime=4,ConsumeCPUTime=2
+08-08 15:10:59.702 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=33,ConsumeCPUTime=21
+08-08 15:10:59.712 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$ScrollabilityCache@420c3d98: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.712 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$ScrollabilityCache@41b20db8: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.712 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$ScrollabilityCache@4200dd88: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.722 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b10610: 0,ConsumeRealTime=5,ConsumeCPUTime=2
+08-08 15:10:59.722 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41c24228: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.732 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41c52868: 0,ConsumeRealTime=5,ConsumeCPUTime=3
+08-08 15:10:59.732 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41fc4868: 0,ConsumeRealTime=4,ConsumeCPUTime=2
+08-08 15:10:59.732 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@4211aaf8: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.732 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b72f68: 0,ConsumeRealTime=2,ConsumeCPUTime=2
+08-08 15:10:59.742 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b0e348: 0,ConsumeRealTime=3,ConsumeCPUTime=2
+08-08 15:10:59.742 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41c4ba08: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.742 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41ad47a8: 0,ConsumeRealTime=3,ConsumeCPUTime=2
+08-08 15:10:59.752 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@42105190: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.772 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=26,ConsumeCPUTime=19
+08-08 15:10:59.782 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41bd8100: 0,ConsumeRealTime=3,ConsumeCPUTime=3
+08-08 15:10:59.792 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=13,ConsumeCPUTime=12
+08-08 15:10:59.792 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41b86160: 0,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:10:59.792 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41ca5090: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:10:59.802 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41da8700: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:10:59.812 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=18,ConsumeCPUTime=13
+08-08 15:10:59.832 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=19,ConsumeCPUTime=11
+08-08 15:10:59.862 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=24,ConsumeCPUTime=14
+08-08 15:10:59.882 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=19,ConsumeCPUTime=10
+08-08 15:10:59.902 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=17,ConsumeCPUTime=12
+08-08 15:10:59.922 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=18,ConsumeCPUTime=12
+08-08 15:10:59.932 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=13,ConsumeCPUTime=10
+08-08 15:10:59.952 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=18,ConsumeCPUTime=12
+08-08 15:10:59.992 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=38,ConsumeCPUTime=15
+08-08 15:11:00.032 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=42,ConsumeCPUTime=12
+08-08 15:11:00.052 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=22,ConsumeCPUTime=12
+08-08 15:11:00.072 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=18,ConsumeCPUTime=9
+08-08 15:11:00.092 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=12,ConsumeCPUTime=10
+08-08 15:11:00.112 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=17,ConsumeCPUTime=12
+08-08 15:11:00.122 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=11,ConsumeCPUTime=10
+08-08 15:11:00.122 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@420fa960: 0,ConsumeRealTime=3,ConsumeCPUTime=3
+08-08 15:11:00.142 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=13,ConsumeCPUTime=10
+08-08 15:11:00.152 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=9,ConsumeCPUTime=8
+08-08 15:11:00.162 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=8,ConsumeCPUTime=7
+08-08 15:11:00.172 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=11,ConsumeCPUTime=10
+08-08 15:11:00.262 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@420db308: 0,ConsumeRealTime=33,ConsumeCPUTime=23
+08-08 15:11:00.312 I/@PAEX   ( 8794): MsgID=166,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=44,ConsumeCPUTime=2
+08-08 15:11:00.322 I/@PAEX   ( 8794): MsgID=54,Target=com.uc.application.infoflow.model.database.InfoFlowDataBaseCallback$CallbackHandler,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:11:00.402 I/@PAEX   ( 8794): MsgID=4,Target=com.uc.framework.core.NotificationCenter,Callback=,ConsumeRealTime=15,ConsumeCPUTime=11
+08-08 15:11:00.412 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@41e123c0: 0,ConsumeRealTime=3,ConsumeCPUTime=2
+08-08 15:11:00.442 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.system.net.NetworkStateChangeReceiver$2@41ae3460: 0,ConsumeRealTime=11,ConsumeCPUTime=10
+08-08 15:11:00.502 I/@PAEX   ( 8794): MsgID=0,Target=android.view.Choreographer$FrameHandler,Callback= android.view.Choreographer$FrameDisplayEventReceiver@41e1f1f0: 0,ConsumeRealTime=60,ConsumeCPUTime=47
+08-08 15:11:00.582 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewStateChangedAccessibilityEvent@41b86650: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:00.582 I/@PAEX   ( 8794): MsgID=0,Target=android.view.ViewRootImpl$ViewRootHandler,Callback= android.view.View$SendViewScrolledAccessibilityEvent@41e67a80: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:11:00.622 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41b05458: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:00.932 I/@PAEX   ( 8794): MsgID=0,Target=android.os.Handler,Callback= com.uc.webkit.UCMobileWebKit$3@41b9b990: 0,ConsumeRealTime=9,ConsumeCPUTime=9
+08-08 15:11:01.162 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41de0fa8: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:03.722 I/@PAEX   ( 8794): MsgID=4,Target=com.uc.framework.core.NotificationCenter,Callback=,ConsumeRealTime=1335,ConsumeCPUTime=611
+08-08 15:11:03.822 I/@PAEX   ( 8794): MsgID=100,Target=com.uc.framework.core.MsgDispatcher37,Callback=,ConsumeRealTime=102,ConsumeCPUTime=71
+08-08 15:11:03.832 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.base.util.assistant.ThreadManager$3@41b285b8: 0,ConsumeRealTime=3,ConsumeCPUTime=0
+08-08 15:11:03.842 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ServiceDispatcher$RunConnection@420101f0: 0,ConsumeRealTime=12,ConsumeCPUTime=5
+08-08 15:11:03.852 I/@PAEX   ( 8794): MsgID=0,Target=com.uc.webkit.WebViewEx$b,Callback= com.uc.webkit.ViewManager$1@41f2c570: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:03.852 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@41e06568: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:03.852 I/@PAEX   ( 8794): MsgID=107,Target=com.uc.webkit.WebViewEx$b,Callback=,ConsumeRealTime=4,ConsumeCPUTime=4
+08-08 15:11:03.862 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@41b6e558: 0,ConsumeRealTime=2,ConsumeCPUTime=1
+08-08 15:11:03.862 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ReceiverDispatcher$Args@41d52b20: 0,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:11:03.862 I/@PAEX   ( 8794): MsgID=114,Target=android.app.ActivityThread$H,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:11:03.862 I/@PAEX   ( 8794): MsgID=100,Target=com.uc.webkit.e,Callback=,ConsumeRealTime=4,ConsumeCPUTime=3
+08-08 15:11:03.882 I/@PAEX   ( 8794): MsgID=115,Target=android.app.ActivityThread$H,Callback=,ConsumeRealTime=8,ConsumeCPUTime=1
+08-08 15:11:03.882 I/@PAEX   ( 8794): MsgID=307,Target=com.uc.webkit.e,Callback=,ConsumeRealTime=1,ConsumeCPUTime=1
+08-08 15:11:03.882 I/@PAEX   ( 8794): MsgID=352,Target=com.uc.webkit.e,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:11:03.882 I/@PAEX   ( 8794): MsgID=352,Target=com.uc.webkit.e,Callback=,ConsumeRealTime=1,ConsumeCPUTime=0
+08-08 15:11:03.882 I/@PAEX   ( 8794): MsgID=217,Target=com.uc.webkit.WebViewEx$b,Callback=,ConsumeRealTime=2,ConsumeCPUTime=0
+08-08 15:11:03.892 I/@PAEX   ( 8794): MsgID=0,Target=BackgroundHandler.MainThreadHandler + 38,Callback= com.uc.iflow.userscore.UserCreditScoreController$2@41aef418: 0,ConsumeRealTime=6,ConsumeCPUTime=4
+08-08 15:11:04.252 I/@PAEX   ( 8794): MsgID=0,Target=android.app.ActivityThread$H,Callback= android.app.LoadedApk$ServiceDispatcher$RunConnection@4208cae0: 0,ConsumeRealTime=1,ConsumeCPUTime=1

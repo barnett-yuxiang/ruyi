@@ -75,5 +75,5 @@ if __name__ == '__main__':
     for line in f:
         parse(line.strip("\n"))
     f.close()
-    # showSimpleResult()
+    showSimpleResult()
     showOrderResult()
