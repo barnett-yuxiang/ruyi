@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afaaad69-947e-48a2-b8e8-a096cd34746b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ucnews/log_example_git" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ucnews/startup_jankdraw.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ucnews/log_example_git" afterPath="$PROJECT_DIR$/ucnews/log_example_git" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ucnews/log_example_svn" afterPath="$PROJECT_DIR$/ucnews/log_example_svn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ucnews/startup_jankdraw.py" afterPath="$PROJECT_DIR$/ucnews/startup_jankdraw.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log_example_git" pinned="false" current-in-tab="false">
+      <file leaf-file-name="log_example_git" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ucnews/log_example_git">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="123" column="58" lean-forward="false" selection-start-line="123" selection-start-column="58" selection-end-line="123" selection-end-column="58" />
+            <state relative-caret-position="457">
+              <caret line="237" column="115" lean-forward="false" selection-start-line="237" selection-start-column="115" selection-end-line="237" selection-end-column="115" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="startup_jankdraw.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="startup_jankdraw.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ucnews/startup_jankdraw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="69" column="53" lean-forward="false" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+            <state relative-caret-position="409">
+              <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
               <folding>
                 <element signature="e#24#44#0" expanded="true" />
               </folding>
@@ -41,8 +40,8 @@
       <file leaf-file-name="log_example_svn" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ucnews/log_example_svn">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="763">
-              <caret line="82" column="98" lean-forward="false" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
+            <state relative-caret-position="889">
+              <caret line="174" column="192" lean-forward="false" selection-start-line="174" selection-start-column="192" selection-end-line="174" selection-end-column="192" />
               <folding />
             </state>
           </provider>
@@ -62,6 +61,7 @@
       <find>key</find>
       <find>ConsumeRealTime</find>
       <find>android.view.ViewRootImpl$4@5469f: 0</find>
+      <find>android.view.ViewRootImpl$4@5469f: 0</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,9 +74,9 @@
         <option value="$PROJECT_DIR$/textcounter.py" />
         <option value="$PROJECT_DIR$/test/cal_fps_jank.py" />
         <option value="$PROJECT_DIR$/test/autotest.py" />
-        <option value="$PROJECT_DIR$/ucnews/log_example_git" />
         <option value="$PROJECT_DIR$/ucnews/log_example_svn" />
         <option value="$PROJECT_DIR$/ucnews/startup_jankdraw.py" />
+        <option value="$PROJECT_DIR$/ucnews/log_example_git" />
       </list>
     </option>
   </component>
@@ -451,29 +451,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ucnews/log_example_git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="123" column="58" lean-forward="false" selection-start-line="123" selection-start-column="58" selection-end-line="123" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ucnews/log_example_svn">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="82" column="98" lean-forward="false" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
+        <state relative-caret-position="889">
+          <caret line="174" column="192" lean-forward="false" selection-start-line="174" selection-start-column="192" selection-end-line="174" selection-end-column="192" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ucnews/startup_jankdraw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="69" column="53" lean-forward="false" selection-start-line="69" selection-start-column="53" selection-end-line="69" selection-end-column="53" />
+        <state relative-caret-position="409">
+          <caret line="76" column="13" lean-forward="true" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
           <folding>
             <element signature="e#24#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ucnews/log_example_git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="237" column="115" lean-forward="false" selection-start-line="237" selection-start-column="115" selection-end-line="237" selection-end-column="115" />
+          <folding />
         </state>
       </provider>
     </entry>
